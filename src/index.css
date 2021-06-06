@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.y{
+  font: bold;
+  font-family: 'Times New Roman', Times, serif;
+color: darkblue 
+}
+body{
+  background: url("wea.jpg");
+  background-size: 1100px 1000px ;
+}
+.yash{
+  color: cadetblue;
+}
+.h{
+  border: 2px solid darkblue;
+}
